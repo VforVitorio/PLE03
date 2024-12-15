@@ -1,2 +1,6 @@
 swig 
 gymnasium[box2d]
+gymnasium
+gym
+tensorflow
+tensorflow-probability[tf]
