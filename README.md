@@ -19,7 +19,9 @@ Este repositorio contiene implementaciones de modelos de aprendizaje por refuerz
   - **pesos/mi_bipedal_walker.weights.h5**: Pesos del modelo entrenado para el Bipedal Walker.
   - **pesos/mountain_car.pkl**: Pesos del modelo entrenado para el Mountain Car.
 
-- **.gitignore**: Archivo que especifica qué archivos o carpetas deben ser ignorados por Git. En este caso la `carpeta images`, donde están las ilustraciones de los Notebooks.
+- **Carpeta [`images`](images)**: carpeta donde se encuentran las ilustraciones usadas en los Notebooks.
+
+- **.gitignore**: Archivo que especifica qué archivos o carpetas deben ser ignorados por Git. En este caso la `carpeta images`, donde están las ilustraciones de los Notebooks, estaba antes metida en este archivo. Sin embargo, para su buena renderización en web, se ha quitado del gitignore.
 
 ## Instalación y Ejecución
 
