@@ -21,7 +21,7 @@ Este repositorio contiene implementaciones de modelos de aprendizaje por refuerz
 
 - **Carpeta [`images`](images)**: carpeta donde se encuentran las ilustraciones usadas en los Notebooks.
 
-- **.gitignore**: Archivo que especifica qué archivos o carpetas deben ser ignorados por Git. En este caso la `carpeta images`, donde están las ilustraciones de los Notebooks, estaba antes metida en este archivo. Sin embargo, para su buena renderización en web, se ha quitado del gitignore.
+- **.gitignore**: Archivo que especifica qué archivos o carpetas deben ser ignorados por Git. En este caso la `carpeta images`, donde están las ilustraciones de los Notebooks, estaba antes metida en este archivo. Sin embargo, para su buena renderización en web, se ha quitado del gitignore, aunque las imágenes en web no se están renderizando correctamente.
 
 ## Instalación y Ejecución
 
