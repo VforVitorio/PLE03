@@ -4,3 +4,6 @@ gymnasium
 gym
 tensorflow
 tensorflow-probability[tf]
+numpy 
+pickle 
+matplotlib
